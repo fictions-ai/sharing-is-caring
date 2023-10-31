@@ -10,7 +10,11 @@ This repository is maintained by the **fictions.ai** team. We believe in the pow
 
 **Comfy Workflows** - Discover our tried and tested workflows that help streamline the process of A.I. generation.
 
-[IPAdapterSDXL + Face + OpenPose] (https://www.google.com)
+[IPAdapterSDXL + Face + OpenPose](https://github.com/fictions-ai/sharing-is-caring/blob/main/ipadapter_face_sdxl_openpose.json)
+
+![workflow img](https://github.com/fictions-ai/sharing-is-caring/blob/main/ipadapter_face_sdxl_openpose.png)
+
+
 
 ## Contact
 If you have any questions, issues, or feedback, feel free to reach out to us. Connect with the fictions.ai team at our official website.
