@@ -14,6 +14,27 @@ This repository is maintained by the **fictions.ai** team. We believe in the pow
 
 ![workflow img](https://github.com/fictions-ai/sharing-is-caring/blob/main/ipadapter_face_sdxl_openpose.png)
 
+To use this workflow, you'll need:
+
+**ComfyUI** https://github.com/comfyanonymous/ComfyUI
+
+If you don't already have it, we suggest to install** ComfyUI-Manager** https://github.com/ltdrdata/ComfyUI-Manager
+
+**IPAdapterPlus** https://github.com/cubiq/ComfyUI_IPAdapter_plus
+
+**IPAdapterPlus Face SDXL weights** https://huggingface.co/h94/IP-Adapter/blob/main/sdxl_models/ip-adapter-plus-face_sdxl_vit-h.bin (in comfy_path/custom_nodes/ComfyUI_IPAdapter_plus/models)
+
+**IPAdapterPlus SDXL weights** https://huggingface.co/h94/IP-Adapter/blob/main/sdxl_models/ip-adapter-plus_sdxl_vit-h.bin (in comfy_path/custom_nodes/ComfyUI_IPAdapter_plus/models)
+
+**Clip Vision SDXL** https://huggingface.co/h94/IP-Adapter/blob/main/sdxl_models/image_encoder/model.safetensors  (in comfy_path/models/clip_vision, we suggest to rename it model.sdxl.safetensors)
+
+**Clip Vision SD1.5** (IPAdapterPlus Face SDXL needs the 1.5 version) https://huggingface.co/h94/IP-Adapter/blob/main/models/image_encoder/model.safetensors  (in comfy_path/models/clip_vision, we suggest to rename it model.15.safetensors)
+
+**ControlNet** https://github.com/Fannovel16/comfyui_controlnet_aux
+
+**ControlNet OpenPose weights** https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0 (in comfy_path/models/controlnet)
+
+
 
 
 ## Contact
