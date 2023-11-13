@@ -34,6 +34,14 @@ If you don't already have it, we suggest to install** ComfyUI-Manager** https://
 
 **ControlNet OpenPose weights** https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0 (in comfy_path/models/controlnet)
 
+[Vid2Vid using HotShotXK](https://github.com/fictions-ai/sharing-is-caring/blob/main/workflow-vid2vid-hotshotXL-ipadapterplusface-ipadapter.json)
+
+![workflow img](https://github.com/fictions-ai/sharing-is-caring/blob/main/ipadapter_face_sdxl_openpose.png)
+
+To use this workflow, you'll need:
+
+**HotShotXL** [https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0 (in comfy_path/models/controlnet)](https://huggingface.co/hotshotco/Hotshot-XL)
+
 
 
 
