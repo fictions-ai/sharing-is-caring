@@ -10,7 +10,9 @@ This repository is maintained by the **fictions.ai** team. We believe in the pow
 
 **Comfy Workflows** - Discover our tried and tested workflows that help streamline the process of A.I. generation.
 
-[Our ultimate workflow with IPAdater for Style, Face, ControlNet, FreeU](https://github.com/fictions-ai/sharing-is-caring/blob/main/workflow-vid2vid-hotshotXL-ipadapterplusface-ipadapter.json)
+[Our ultimate workflow with IPAdater for Style, Face, ControlNet, FreeU](https://github.com/fictions-ai/sharing-is-caring/blob/main/christmas-workflow.png)
+
+![workflow img](https://github.com/fictions-ai/sharing-is-caring/blob/main/christmas-workflow.png)
 
 [IPAdapterSDXL + Face + OpenPose](https://github.com/fictions-ai/sharing-is-caring/blob/main/ipadapter_face_sdxl_openpose.json)
 
