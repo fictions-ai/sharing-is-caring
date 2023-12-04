@@ -10,6 +10,8 @@ This repository is maintained by the **fictions.ai** team. We believe in the pow
 
 **Comfy Workflows** - Discover our tried and tested workflows that help streamline the process of A.I. generation.
 
+[Our ultimate workflow with IPAdater for Style, Face, ControlNet, FreeU](https://github.com/fictions-ai/sharing-is-caring/blob/main/workflow-vid2vid-hotshotXL-ipadapterplusface-ipadapter.json)
+
 [IPAdapterSDXL + Face + OpenPose](https://github.com/fictions-ai/sharing-is-caring/blob/main/ipadapter_face_sdxl_openpose.json)
 
 ![workflow img](https://github.com/fictions-ai/sharing-is-caring/blob/main/ipadapter_face_sdxl_openpose.png)
@@ -34,7 +36,7 @@ If you don't already have it, we suggest to install** ComfyUI-Manager** https://
 
 **ControlNet OpenPose weights** https://huggingface.co/thibaud/controlnet-openpose-sdxl-1.0 (in comfy_path/models/controlnet)
 
-[Vid2Vid using HotShotXK](https://github.com/fictions-ai/sharing-is-caring/blob/main/workflow-vid2vid-hotshotXL-ipadapterplusface-ipadapter.json)
+[Vid2Vid using HotShotXL](https://github.com/fictions-ai/sharing-is-caring/blob/main/workflow-vid2vid-hotshotXL-ipadapterplusface-ipadapter.json)
 
 ![workflow img](https://github.com/fictions-ai/sharing-is-caring/blob/main/ipadapter_face_sdxl_openpose.png)
 
