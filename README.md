@@ -12,9 +12,12 @@ This repository is maintained by the **fictions.ai** team. We believe in the pow
 
 [Our ultimate workflow with IPAdater for Style, Face, ControlNet, FreeU](https://github.com/fictions-ai/sharing-is-caring/blob/main/christmas-workflow.png)
 
-["Pokemon" Creator - MixThemAll](https://github.com/fictions-ai/sharing-is-caring/blob/main/MixThemAll-workflow.png)
-
 ![workflow img](https://github.com/fictions-ai/sharing-is-caring/blob/main/christmas-workflow.png)
+
+["Pokemon" Creator - MixThemAll](https://github.com/fictions-ai/sharing-is-caring/blob/main/MixThemAll.png)
+
+![workflow img](https://github.com/fictions-ai/sharing-is-caring/blob/main/MixThemAll.png)
+
 
 [IPAdapterSDXL + Face + OpenPose](https://github.com/fictions-ai/sharing-is-caring/blob/main/ipadapter_face_sdxl_openpose.json)
 
