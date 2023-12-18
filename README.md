@@ -19,7 +19,9 @@ This repository is maintained by the **fictions.ai** team. We believe in the pow
 ![workflow img](https://github.com/fictions-ai/sharing-is-caring/blob/main/upscale_v3.png)
 
 [Our upscaler workflow v2](https://github.com/fictions-ai/sharing-is-caring/blob/main/upscale_v1.png)
+
 [Our upscaler workflow v1](https://github.com/fictions-ai/sharing-is-caring/blob/main/upscale_v2.png)
+
 
 [Our ultimate workflow with IPAdater for Style, Face, ControlNet, FreeU](https://github.com/fictions-ai/sharing-is-caring/blob/main/christmas-workflow.png)
 
