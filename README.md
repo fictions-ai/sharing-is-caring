@@ -15,7 +15,8 @@ This repository is maintained by the **fictions.ai** team. We believe in the pow
 **Comfy Workflows** - Discover our tried and tested workflows that help streamline the process of A.I. generation.
 
 
-[2D 360°](https://github.com/fictions-ai/sharing-is-caring/blob/main/3d.png)
+![2D 360°](https://github.com/fictions-ai/sharing-is-caring/blob/main/3d.png)
+
 [json version](https://github.com/fictions-ai/sharing-is-caring/blob/main/3d.json)
 
 
