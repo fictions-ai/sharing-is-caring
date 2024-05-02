@@ -20,11 +20,15 @@ This repository is maintained by the **fictions.ai** team. We believe in the pow
 [json version](https://github.com/fictions-ai/sharing-is-caring/blob/main/3d.json)
 
 
-the upscale v4 fix the color washing issue!
+the upscale v5 fix the color washing issue & the multiply issue!
+
+[Our upscaler workflow v5](https://github.com/fictions-ai/sharing-is-caring/blob/main/upscale_v5.png)
+
+
+
+![workflow img](https://github.com/fictions-ai/sharing-is-caring/blob/main/upscale_v5.png)
 
 [Our upscaler workflow v4](https://github.com/fictions-ai/sharing-is-caring/blob/main/upscale_v4.png)
-
-![workflow img](https://github.com/fictions-ai/sharing-is-caring/blob/main/upscale_v4.png)
 
 [Our upscaler workflow v3](https://github.com/fictions-ai/sharing-is-caring/blob/main/upscale_v3.png)
 
